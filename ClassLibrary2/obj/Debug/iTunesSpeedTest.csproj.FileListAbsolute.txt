@@ -1,0 +1,12 @@
+c:\users\josh\documents\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+c:\users\josh\documents\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+c:\users\josh\documents\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\josh\documents\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\obj\Debug\iTunesSpeedTest.csprojResolveAssemblyReference.cache
+c:\users\josh\documents\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+c:\users\josh\documents\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\Josh\Documents\Visual Studio 2015\Projects\iTunesTesting\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Josh\Documents\Visual Studio 2015\Projects\iTunesTesting\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Josh\Documents\Visual Studio 2015\Projects\iTunesTesting\ClassLibrary2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Josh\Documents\Visual Studio 2015\Projects\iTunesTesting\ClassLibrary2\obj\Debug\iTunesSpeedTest.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Documents\Visual Studio 2015\Projects\iTunesTesting\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Josh\Documents\Visual Studio 2015\Projects\iTunesTesting\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
